@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Vim / Neovim
+*.swp
+*.swo
+
+# C build outputs
+main
+*.o
+*.out
+*.dSYM/
+
+# misc
+compile_commands.json
